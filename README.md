@@ -1,3 +1,8 @@
+Note: you have to add dependancies in pubspec.yaml file
+  fluttertoast: ^7.0.1+1
+  flutter_statusbarcolor: ^0.2.3
+
+
 What is Dart?
     Dart looks a bit like C and is an object-oriented programming language. So, if you prefer the C languages or Java, Dart is the one for you, and you’ll likely be proficient in it.Dart is not only used for mobile app development but is a programming language. Approved as a standard by Ecma (ECMA-408), it’s used to build just about anything on the web, servers, desktop and of course, mobile applications.
     Dart, when used in web applications, is transpiled to JavaScript so it runs on all web browsers. The Dart installation comes with a VM as well to run the .dart files from a command-line interface. The Dart files used in Flutter apps are compiled and packaged into a binary file (.apk or .ipa) and uploaded to app stores.
